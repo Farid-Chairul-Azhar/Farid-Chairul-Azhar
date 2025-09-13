@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Farid Chairul Azhar
 
 # 💫 About Me:
-Data Analyst & ML enthusiast with Supply Chain background<br>Skilled in predictive modeling & process optimization<br>Strong problem-solving & collaborative approach
+- Data Analyst & ML enthusiast with Supply Chain background
+- Skilled in predictive modeling & process optimization
+- Strong problem-solving & collaborative approach
 
 
 ## 🌐 Socials:
@@ -17,4 +19,3 @@ Data Analyst & ML enthusiast with Supply Chain background<br>Skilled in predicti
 ---
 [![](https://visitcount.itsvg.in/api?id=Farid-Chairul-Azhar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
